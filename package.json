@@ -1,7 +1,7 @@
 {
-  "name": "skypicker-api",
-  "version": "0.2.0",
-  "description": "A Node.js wrapper for the Skypicker API",
+  "name": "kiwi-api",
+  "version": "0.3.0",
+  "description": "A Node.js wrapper for the Kiwi(Skypicker) API",
   "main": "build/index.js",
   "dependencies": {},
   "devDependencies": {
@@ -16,9 +16,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/evgenTraytyak/skypicker-api.git"
+    "url": "git+https://github.com/evgenTraytyak/kiwi-api.git"
   },
   "keywords": [
+    "kiwi",
     "skypicker",
     "api",
     "node",
@@ -27,7 +28,7 @@
   "author": "Eugene Traytyak",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/evgenTraytyak/skypicker-api/issues"
+    "url": "https://github.com/evgenTraytyak/kiwi-api/issues"
   },
-  "homepage": "https://github.com/evgenTraytyak/skypicker-api#readme"
+  "homepage": "https://github.com/evgenTraytyak/kiwi-api#readme"
 }
