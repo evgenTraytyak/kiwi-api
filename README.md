@@ -1,3 +1,6 @@
+[![npm](https://img.shields.io/npm/v/kiwi-api.svg)](https://www.npmjs.com/package/kiwi-api)
+[![npm](https://img.shields.io/npm/dt/kiwi-api.svg)](https://www.npmjs.com/package/kiwi-api)
+
 Kiwi(Skypicker) API
 ==========
 
